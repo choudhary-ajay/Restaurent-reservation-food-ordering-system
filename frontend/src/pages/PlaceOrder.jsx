@@ -77,7 +77,7 @@ const PlaceOrder = () => {
     }
 
     return (
-        <form onSubmit={onsubmithandler} className='max-w-6xl mx-auto mb-10 py-20 flex justify-between items-center border-2 border-t-white' >
+        <form onSubmit={onsubmithandler} className='max-w-6xl flex-col md:flex-row mx-auto mb-10 py-20 flex justify-between items-center border-2 border-t-white' >
             <div className='text-white flex flex-col gap-5'>
                 <h1 className='text-3xl flex items-center font-bold mb-3'>Delivey Information<span className='h-0.5  inline-block mx-2 w-12 bg-white'></span></h1>
 
