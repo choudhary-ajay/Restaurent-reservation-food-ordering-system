@@ -2,6 +2,12 @@
 
 A full-stack MERN application that allows customers to reserve restaurant tables, browse the menu, place food orders, and make secure online payments. The system also provides an admin dashboard to manage reservations, menu items, and customer orders efficiently.
 
+## 🔗 Live Demo
+
+🌐 **Customer:** https://restaurent-reservation-and-food-ord-seven.vercel.app/
+🛠️ **Admin Panel:**
+⚙️ **Backend API:** https://restaurent-reservation-food-ordering.onrender.com/
+
 ## 🚀 Features
 
 ### Customer
@@ -64,67 +70,11 @@ Restaurant-Reservation-System
 └── README.md
 ```
 
----
-
-## ⚙️ Installation
-
-### Clone Repository
-
-```bash
-git clone <repository-url>
-```
-
-### Install Dependencies
-
-Frontend
-
-```bash
-cd frontend
-npm install
-```
-
-Backend
-
-```bash
-cd backend
-npm install
-```
-
-Admin
-
-```bash
-cd admin
-npm install
-```
-
----
-
-## ▶️ Run the Project
-
-### Backend
-
-```bash
-npm run server
-```
-
-### Frontend
-
-```bash
-npm run dev
-```
-
-### Admin
-
-```bash
-npm run dev
-```
-
-
 ## 📸 Screenshots
 
 Add screenshots of:
 
-- Home Page
+- home
 - Menu
 - Cart
 - Reservation Page
